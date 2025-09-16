@@ -1,4 +1,4 @@
 # MyfirstRepository
 This is my first git repository
 <br>
-Author - Zufishan Yaseen
+Author - Zufishan Yaseen(project)
